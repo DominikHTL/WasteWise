@@ -1,7 +1,7 @@
 {
     "name": "Temperature converter app",
     "short_name": "Temp Convert",
-    "start_url": "/",
+    "start_url": "./WasteWise.github.io/",
     "icons": [
         {
             "src": "./icon512.png",
